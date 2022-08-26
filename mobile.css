@@ -1,0 +1,24 @@
+@media screen and (max-width: 767px){
+
+    #galery img{
+        width: 250px;
+        height: 250px;
+    }
+
+    #container i{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .play-pause{
+        width: 250px;
+    }
+    .play-pause i{
+        font-size: 20px;
+        width: 125px;
+        height: 66px;
+    }
+    .hidden{
+        display: none;
+    }
+}
